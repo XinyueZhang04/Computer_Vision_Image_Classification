@@ -7,7 +7,6 @@ The system includes a complete pipeline covering data preprocessing, augmentatio
 
 The goal of this project is to explore transfer learning for improving classification performance on a relatively small dataset.
 
----
 
 ## File Description
 
@@ -23,7 +22,6 @@ Contains the implementation of the deep learning pipeline.
 - Performs model training and validation  
 - Evaluates classification performance  
 
----
 
 ### 2. Dataset Handling
 **Example: `dataset.py`**
@@ -36,7 +34,6 @@ Defines dataset loading and transformation pipeline.
 - Applies data augmentation (rotation, flip, normalization)  
 - Converts images into PyTorch tensors  
 
----
 
 ### 3. Utility / Configuration Files
 **Example: `utils.py`, `config.py`**
@@ -49,7 +46,6 @@ Supports training and evaluation process.
 - Loss tracking  
 - Training logging  
 
----
 
 ## Features
 
@@ -62,10 +58,3 @@ Supports training and evaluation process.
   - 88.8% fine-grained classification accuracy  
   - 100% coarse-grained accuracy  
 
----
-
-## Usage Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/XinyueZhang04/Computer_Vision_Image_Classification.git

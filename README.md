@@ -54,5 +54,5 @@ Testing and evaluation script.
 ### 1. Install dependencies
 pip install torch torchvision opencv-python numpy scikit-learn
 ### 2. Install dependencies
-You can refer to the relevant technical documentation in . The results of the model are provided at the end of the document.
+You can refer to the relevant technical documentation in Image_Classification_Module_Function_Explanation(Chinese_Version).pptx. The results of the model are provided at the end of the document.
 

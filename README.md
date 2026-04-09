@@ -52,6 +52,7 @@ Testing and evaluation script.
 ## Usage Instructions
 
 ### 1. Install dependencies
-```bash
 pip install torch torchvision opencv-python numpy scikit-learn
+### 2. Install dependencies
+You can refer to the relevant technical documentation in . The results of the model are provided at the end of the document.
 
